@@ -1,14 +1,14 @@
 ## Promotion periods sales performance comparison for a SAMPLE BOOK
 
-This repository mainly serves as a container for a Jupyter Notebook in which I show an analysis I performed recently. **The main aim of this notebook is to show my approach to solve different problems, including the relevant Python code.** Consequently the notebook is not designed to show the analysis outcome in the most effective manner. Nonetheless, the last section contains a conclusion with references to generated Figures.
+This repository mainly serves as a container for a **sales_analysis.ipynb** Jupyter Notebook in which I show an analysis I performed recently. The goal of the analysis was to evaluate a SAMPLE BOOK sales performance on a book-selling platform during two analogous discount periods. The foundation of the analysis was a single dataset provided with a minimal description. Unfortunately, I am not allowed to publicly share the file, even though the dataset has been anonymized.
 
-The goal of the analysis is to evaluate a SAMPLE BOOK sales performance on a book-selling platform during two analogous discount periods. The foundation of the analysis is a single dataset provided with a minimal description. Unfortunately, I am not allowed to publicly share the file, even though the dataset has been anonymized. The presented order of actions is a reconstruction of my approach to complete the task.
+ **In the sales_analysis.ipynb notebook I first tell a story with the data, and then show my approach to solve different problems (including the relevant Python code).**
 
 The Python code is organized and formatted to make the notebook easier to read, therefore it is not PEP-8 compliant. Especially imports are not clustered at the beginning, but appear in code-cells that first utilize a certain module.
 
 
 ### Skills presented in the notebook:
-***Python programming***, ***data cleaning***, ***data visualization***, ***statistical inference***, ***simple unstructured data mining/preparation/joining***
+***Telling a story with data***, ***Python programming***, ***data cleaning***, ***data visualization***, ***statistical inference***, ***simple unstructured data mining/preparation/joining***
 
 
 ### Summary of the analysis:
