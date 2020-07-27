@@ -1,6 +1,6 @@
 ## Promotion periods sales performance comparison for a SAMPLE BOOK
 
-This repository mainly serves as a container for a **sales_analysis.ipynb** Jupyter Notebook in which I show an analysis I performed recently. The goal of the analysis was to evaluate a SAMPLE BOOK sales performance on a book-selling platform during two analogous discount periods. The foundation of the analysis was a single dataset provided with a minimal description. Unfortunately, I am not allowed to publicly share the file, even though the dataset has been anonymized.
+This repository mainly serves as a container for **sales_analysis.ipynb** Jupyter Notebook in which I show an analysis I performed recently. The goal of the analysis was to evaluate a SAMPLE BOOK sales performance on a book-selling platform during two analogous discount periods. The foundation of the analysis was a single dataset provided with a minimal description. Unfortunately, I am not allowed to publicly share the file, even though the dataset has been anonymized.
 
  **In the sales_analysis.ipynb notebook I first tell a story with the data, and then show my approach to solve different problems (including the relevant Python code).**
 
