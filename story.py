@@ -140,8 +140,8 @@ def GUS_rel_ch(df, dates, recognition=False):
           fillcolor=colors[0] if i % 2 else colors[1])
   fig_in.update_layout(
       title_text='Average daily sales increase <b>' + 
-                 ('after' if recognition else 'during') + 
-                 ' sale</b> per <b>country</b>',
+                 ('after ' if recognition else 'during ') + 
+                 sale_id + '</b> per <b>country</b>',
       title_x=0.5,
       title_y=0.9,
       height=600,
